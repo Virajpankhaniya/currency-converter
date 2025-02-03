@@ -12,13 +12,13 @@ A **Currency Converter** web application built using **React.js** that allows us
 ## 🎨 Screenshots  
 
 ### 1️⃣ Home Page – Displays all currency-related information  
-![Home Page](URL_FOR_HOME_PAGE)  
+![Home Page](https://github.com/Virajpankhaniya/currency-converter/blob/main/public/home.png)  
 
 ### 2️⃣ Currency Selection – Dropdown menu to select the desired currency  
-![Currency Selection](URL_FOR_CURRENCY_SELECTION)  
+![Currency Selection](https://github.com/Virajpankhaniya/currency-converter/blob/main/public/currency_type.png)  
 
 ### 3️⃣ Currency Conversion – Converts one currency to another with real-time rates  
-![Currency Conversion](URL_FOR_CURRENCY_CONVERSION)  
+![Currency Conversion](https://github.com/Virajpankhaniya/currency-converter/blob/main/public/change.png)  
 
 ### 4️⃣ Swap Button – Allows users to quickly swap between selected currencies  
-![Swap Button](URL_FOR_SWAP_BUTTON)  
+![Swap Button](https://github.com/Virajpankhaniya/currency-converter/blob/main/public/swap.png)  
